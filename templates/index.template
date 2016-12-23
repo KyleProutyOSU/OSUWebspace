@@ -1,0 +1,6 @@
+{{template "header"}}
+
+<h1>Welcome</h1>
+<h2>this is a test page</h2>
+
+{{template "footer"}}
